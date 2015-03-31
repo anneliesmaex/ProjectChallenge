@@ -23,6 +23,7 @@ namespace dotNetProject
         public MainWindow()
         {
             InitializeComponent();
+            //Hallo
         }
     }
 }

@@ -4,37 +4,15 @@
 winexe
 C#
 .cs
-<<<<<<< HEAD
 C:\Users\11301329\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\
-=======
-<<<<<<< HEAD
-C:\Users\Wessel\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\
-=======
-C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\
->>>>>>> e6516a96133c58c0418b37b90b66eab4776fac16
->>>>>>> origin/master
 dotNetProject
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
 C:\Users\11301329\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\App.xaml
 11151548125
 
 91991269028
-=======
-<<<<<<< HEAD
-C:\Users\Wessel\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\App.xaml
-11151548125
-
-947652874
-=======
-C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\App.xaml
-11151548125
-
-9-936336797
->>>>>>> e6516a96133c58c0418b37b90b66eab4776fac16
->>>>>>> origin/master
 12-1401562060
 MainWindow.xaml;
 

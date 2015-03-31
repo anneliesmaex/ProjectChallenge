@@ -1,2 +1,6 @@
 C:\Users\11301329\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\bin\Debug\dotNetProject.exe.config
+<<<<<<< HEAD
 C:\Users\Wessel\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\bin\Debug\dotNetProject.exe.config
+=======
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\bin\Debug\dotNetProject.exe.config
+>>>>>>> e6516a96133c58c0418b37b90b66eab4776fac16

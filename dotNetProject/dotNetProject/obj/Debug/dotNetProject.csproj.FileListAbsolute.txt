@@ -4,3 +4,13 @@ C:\Users\Wessel\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\bi
 =======
 C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\bin\Debug\dotNetProject.exe.config
 >>>>>>> e6516a96133c58c0418b37b90b66eab4776fac16
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\dotNetProject.csprojResolveAssemblyReference.cache
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\Login.baml
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\HomeWindow.baml
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\Login.g.cs
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\HomeWindow.g.cs
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\App.g.cs
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\dotNetProject_MarkupCompile.cache
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\dotNetProject.g.resources
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\dotNetProject.Properties.Resources.resources
+C:\Users\Olivier De Cock\Documents\GitHub\ProjectChallenge\dotNetProject\dotNetProject\obj\Debug\dotNetProject.csproj.GenerateResource.Cache

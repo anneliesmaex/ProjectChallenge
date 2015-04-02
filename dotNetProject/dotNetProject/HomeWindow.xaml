@@ -1,0 +1,13 @@
+﻿<Window x:Class="dotNetProject.HomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Home" Height="350" Width="525">
+    <Grid>
+        <Button Name="wiskundeButton" Content="Wiskunde" HorizontalAlignment="Left" Margin="69,55,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="aardrijkskundeButton" Content="Aardrijkskunde" HorizontalAlignment="Left" Margin="215,55,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="nederlandsButton" Content="Nederlands" HorizontalAlignment="Left" Margin="69,120,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="fransButton" Content="Frans" HorizontalAlignment="Left" Margin="215,120,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Name="scoreLabel" Content="Score:" HorizontalAlignment="Left" Margin="431,10,0,0" VerticalAlignment="Top"/>
+        <Button Name="spelletjesButton" Content="Spelletje" HorizontalAlignment="Left" Margin="398,87,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>
